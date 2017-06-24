@@ -1,5 +1,6 @@
+#Examples
+{% include nav.html content=" > Examples " %}
 ### Table
-{% include nav.md content=" > Examples " %}  
 Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |

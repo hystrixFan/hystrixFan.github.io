@@ -1,5 +1,5 @@
 # vi Editor
-{% include nav.md content=" > [Linux](/linux) > vi " %}  
+{% include nav.html content=" > [Linux](/linux) > vi " %}
 Open file `vi filename`  
   
 ## Modes
