@@ -1,7 +1,10 @@
 # Notes
 Linux. Only the most important.  
 [Linux](linux)  
-sdfsdf  
+  
+  
+[Link1 to the site in site folder](site1)
+[Link2 to the site in site folder](_site/site1)
   
 Colons can be used to align columns.
 
