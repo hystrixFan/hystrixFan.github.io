@@ -1,3 +1,3 @@
 <br><br>
--
-[Home →](https://hystrixfan.github.io/)
+----
+[Home](https://hystrixfan.github.io/)

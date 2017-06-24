@@ -17,7 +17,7 @@ The found strings are highlighted and you can:
 * `ESC + u` turn off the highlights
 
 # Links
-[manpages.ubuntu →](http://manpages.ubuntu.com/manpages/wily/man1/less.1.html)
+[manpages.ubuntu](http://manpages.ubuntu.com/manpages/wily/man1/less.1.html)
 
 
 {% include footer.md %}
