@@ -1,7 +1,3 @@
-# Notes
-[Linux](linux)  
-[Examples](examples) 
-  
 ### Table
 Colons can be used to align columns.
 
