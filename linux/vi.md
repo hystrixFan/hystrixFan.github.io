@@ -1,5 +1,5 @@
 # vi Editor
-{% include simplebreadcrumb.md content=" > [Linux]({{ site.baseurl }}/linux)> vi " %}
+{% include simplebreadcrumb.md content=" > [Linux](/linux)> vi " %}
 Open file `vi filename`  
   
 ## Modes
