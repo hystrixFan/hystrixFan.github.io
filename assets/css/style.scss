@@ -1,4 +1,12 @@
 @import "{{ site.theme }}";
-.navbreadcrumb {
-  font-size:0.9rem;
+.beforebreadcrumb {
+  height:0;
+  margin:0 0;
+}
+.beforebreadcrumb + p{
+  font-size: 0.9rem;
+}
+.afterbreadcrumb {
+  height:1px;
+  margin:0 0;
 }
