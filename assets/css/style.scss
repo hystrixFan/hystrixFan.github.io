@@ -1,1 +1,4 @@
-@import "{{ site.theme }}"
+@import "{{ site.theme }}";
+.navbreadcrumb {
+  font-size:0.9rem;
+}
