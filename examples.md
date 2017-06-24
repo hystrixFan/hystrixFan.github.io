@@ -1,3 +1,4 @@
+{% include simplebreadcrumb.md content=" > Examples" %}  
 ### Table
 Colons can be used to align columns.
 

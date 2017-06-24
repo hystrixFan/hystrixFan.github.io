@@ -1,3 +1,4 @@
+{% include simplebreadcrumb.md content=" > [Linux](linux)> Linux " %}
 # vi Editor
 Open file `vi filename`  
   
