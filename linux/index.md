@@ -1,2 +1,4 @@
 # Linux
-[vi](vi.md)
+[vi](vi.md)  
+  
+{% include footer.md %}  
