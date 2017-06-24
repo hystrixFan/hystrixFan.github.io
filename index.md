@@ -1,8 +1,3 @@
----
-title: Ttttt
-breadcrumb: Home
----
-
 # Notes
 Linux. Only the most important.  
 [Linux](linux)  
