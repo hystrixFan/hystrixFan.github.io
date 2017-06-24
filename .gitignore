@@ -1,0 +1,18 @@
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+.intellij/
+/target/
+
+# ##########
+# angularjs
+# ##########
+
+# dependencies
+node_modules/
+node/
+
+# e2e
+e2e/
