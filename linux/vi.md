@@ -4,18 +4,18 @@ Open file `vi filename`
 ## Modes
 vi has two modes command and insert mode.
 
-1. Eingabemodus (insert)  i 
-2. Kommandomodus [Esc] key.
+1. Insert mode (insert) `i`
+2. Command mode `[Esc] key`
 
 
 ## Undo
 * `u`	undo
 
 ## Insert Text (command mode)
-* `i`	insert text before cursor, until <Esc> hit
-* `a`	append text after cursor, until <Esc> hit
-* `o`	open and put text in a new line below current line, until <Esc> hit
-* `O`	open and put text in a new line above current line, until <Esc> hit
+* `i`	insert text before cursor, until [Esc] hit
+* `a`	append text after cursor, until [Esc] hit
+* `o`	open and put text in a new line below current line, until [Esc] hit
+* `O`	open and put text in a new line above current line, until [Esc] hit
 
 
 ## Delete Text (command mode)
