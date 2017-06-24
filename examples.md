@@ -24,5 +24,3 @@ public class HelloWorld
   }
 }
 ```
-
-{% include footer.md %}
