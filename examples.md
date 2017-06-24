@@ -1,5 +1,5 @@
-{% include simplebreadcrumb.md content=" > Examples" %}  
 ### Table
+{% include nav.md content=" > Examples " %}  
 Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |

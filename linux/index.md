@@ -1,4 +1,4 @@
-{% include simplebreadcrumb.md content=" > Linux" %}
+{% include nav.md content=" > Linux" %}
 # Linux. Only the most important things.
 
 ## Viewer and Editors

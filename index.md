@@ -1,4 +1,4 @@
-{% include simplebreadcrumb.md content="" %}
+{% include nav.md content="" %}
 # Notes
 [Linux](linux)  
 [Examples](examples) 
