@@ -1,12 +1,12 @@
 @import "{{ site.theme }}";
 .beforebreadcrumb {
-  height:0;
-  margin:0 0;
+  height:0 !important;
+  margin:0 0 !important;
 }
 .beforebreadcrumb + p{
-  font-size: 0.9rem;
+  font-size: 0.9rem !important;
 }
 .afterbreadcrumb {
-  height:1px;
-  margin:0 0;
+  height:1px !important;
+  margin:0 0 !important;
 }
