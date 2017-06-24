@@ -36,5 +36,3 @@ vi has two modes command and insert mode.
 # Links
 [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)  
 [vi-crashkurs-fur-einsteiger](http://netz10.de/2009/04/28/vi-crashkurs-fur-einsteiger/)
-
-{% include footer.md %}

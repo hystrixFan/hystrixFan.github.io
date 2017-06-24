@@ -5,5 +5,3 @@
 [vi](vi.md)  
 [less](less.md)  
 [tail](tail.md)
-  
-{% include footer.md %}  
