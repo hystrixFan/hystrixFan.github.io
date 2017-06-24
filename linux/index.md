@@ -1,6 +1,6 @@
-{% include nav-breadcrumbs.html %}
 ---
-breadcrumb: Legal
+title: Linux
+breadcrumb: Linux
 ---
 
 # Linux
