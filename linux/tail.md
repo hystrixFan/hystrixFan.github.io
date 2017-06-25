@@ -5,6 +5,6 @@ In contrast to Less you can use "Enter" to insert blank lines, which only apply 
 Open file `tail -f filename`
 
 # Links
-[ubuntu manuals](http://manpages.ubuntu.com/manpages/precise/en/man1/tail.1posix.html)
+[Ubuntu manuals](http://manpages.ubuntu.com/manpages/precise/en/man1/tail.1posix.html)
 
 {% include footer.html content=" > [Linux](/linux) > tail " %}
