@@ -1,5 +1,4 @@
 #Examples
-{% include nav.html content=" > Examples " %}
 ### Table
 Colons can be used to align columns.
 
@@ -25,3 +24,5 @@ public class HelloWorld
   }
 }
 ```
+
+{% include footer.html content=" > Examples " %}

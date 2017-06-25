@@ -6,3 +6,5 @@ Open file `tail -f filename`
 
 # Links
 [manpages.ubuntu](http://manpages.ubuntu.com/manpages/precise/en/man1/tail.1posix.html)
+
+{% include footer.html content=" > [Linux](/linux) > tail " %}

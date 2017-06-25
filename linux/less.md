@@ -18,3 +18,5 @@ The found strings are highlighted and you can:
 
 # Links
 [manpages.ubuntu](http://manpages.ubuntu.com/manpages/wily/man1/less.1.html)
+
+{% include footer.html content=" > [Linux](/linux) > less " %}
