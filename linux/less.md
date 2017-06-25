@@ -10,7 +10,7 @@ Open file `less filename`
 
 ## Search
 * `/searchString` To search forwards
-* `?searchString` To search backwards
+* `?searchString` To search backwards  
 The found strings are highlighted and you can:
 * `n` forward to the next found line
 * `N` back to the previous line
