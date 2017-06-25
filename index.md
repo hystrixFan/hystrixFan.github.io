@@ -1,4 +1,4 @@
-# Notes
+# Notices and links
 [Linux](linux)  
 [Examples](examples) 
 
