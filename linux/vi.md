@@ -31,6 +31,9 @@ vi has two modes command and insert mode.
 * `Nyy` or yNy	copy (yank, cut) the next N lines, including the current line, into the buffer
 * `p`	put (paste) the line(s) in the buffer into the text after the current line
 
+## Quit the editor
+* `:wq`	save and quit
+* `:q!`	without saving
 
 # Links
 [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)  
