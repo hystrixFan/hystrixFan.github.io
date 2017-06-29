@@ -1,7 +1,8 @@
 # Linux
+## Directories [→](directories) 
 ## Viewer and editors
-[vi](vi.md)  
-[less](less.md)  
-[tail](tail.md)
+[vi](vi)  
+[less](less)  
+[tail](tail)
 
 {% include footer.html content=" > Linux" %}

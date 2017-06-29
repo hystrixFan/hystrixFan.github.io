@@ -1,5 +1,6 @@
 # Notes and links. Only the most important things.
 [Linux](linux)  
-[Examples](examples) 
+[Git](git)  
+[Examples](examples)  
 
 {% include footer.html content="" %}
