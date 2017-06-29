@@ -1,5 +1,5 @@
-# Linux. Only the most important things.
-## Viewer and Editors
+# Linux
+## Viewer and editors
 [vi](vi.md)  
 [less](less.md)  
 [tail](tail.md)
