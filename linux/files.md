@@ -13,8 +13,8 @@ e.g. such in the current dir
 `wc -l fileName`
  
 ## Split file
-1) `split fileName`
-2) `split fileName splittedFileNamePrefix_`   
+1. `split fileName`
+2. `split fileName splittedFileNamePrefix_`   
 so each part of the splitted file has a prefix "splittedFileNamePrefix_"   
 e.g. splittedFileNamePrefix_aa, splittedFileNamePrefix_ab etc. 
 
