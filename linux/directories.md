@@ -1,11 +1,11 @@
 # Directories
 
-# List
+## List
 
-## List files and directories  
+### List files and directories  
 `ls -l folder_pattern`
 
-### Example
+#### Example
 Command  
 `ls -l server60*p/application/logs/2017*.log`
 
@@ -18,5 +18,11 @@ server602p/application/logs/2017-06-06-0.log
 server602p/application/logs/2017-06-06-1.log
 server602p/application/logs/2017-06-06-2.log
 ```
+
+### List with for loop
+The same result can be achived with the `for` loop
+
+## Remove full directory
+rm -r dirName
 
 {% include footer.html content=" > [Linux](/linux) > Directories " %}
