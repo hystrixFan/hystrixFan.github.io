@@ -30,5 +30,5 @@ public class HelloWorld
 
 # Links
 [How to Easily Embed YouTube Videos in Jekyll Sites Without a Plugin](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/) 
-
+[Customizing CSS and HTML in your Jekyll theme](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
 {% include footer.html content=" > Examples " %}
