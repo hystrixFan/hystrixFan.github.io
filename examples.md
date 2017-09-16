@@ -25,4 +25,10 @@ public class HelloWorld
 }
 ```
 
+### Embed youtube video
+{% include youtubePlayer.html id=page.psuRGfAaju4 %} 
+
+# Links
+[Embed YouTube Videos in Jekyll](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/) 
+
 {% include footer.html content=" > Examples " %}
