@@ -26,7 +26,7 @@ public class HelloWorld
 ```
 
 ### Embed youtube video
-{% include youtubePlayer.html id=psuRGfAaju4 %} 
+{% include youtubePlayer.html id="psuRGfAaju4" %} 
 
 # Links
 [Embed YouTube Videos in Jekyll](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/) 
