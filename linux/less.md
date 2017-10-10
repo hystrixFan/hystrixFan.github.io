@@ -5,8 +5,9 @@ Open file `less filename`
 * `SHIFT + F`	Follow. Shows the last lines like tail
 
 ## Navigation
-* `n` gos to the bottom of the file
-* `^b` goes up one page
+* `SHIFT + g` goes to end of file
+* `CNTRL + n` gos to the next line
+* `CNTRL + b` goes up one page
 
 ## Search
 * `/searchString` To search forwards
