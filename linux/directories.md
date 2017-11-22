@@ -9,6 +9,9 @@
 Command  
 `ls -l server60*p/application/logs/2017*.log`
 
+### List only directories which names contain the string 'partOfDirectoryName'   
+`ls -ld *partOfDirectoryName*`
+
 Result  
 ```
 server601p/application/logs/2017-06-06-0.log

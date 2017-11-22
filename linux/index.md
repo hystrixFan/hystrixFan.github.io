@@ -6,6 +6,8 @@
 [less](less)  
 [zless](zless)  
 [tail](tail)
+## Search
+[grep](grep)
 ## Terminal multiplexer
 [tmux](tmux)
 
