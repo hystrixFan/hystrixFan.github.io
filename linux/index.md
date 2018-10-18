@@ -10,5 +10,7 @@
 [grep](grep)
 ## Terminal multiplexer
 [tmux](tmux)
+## Other
+[tee](tee)
 
 {% include footer.html content=" > Linux" %}
